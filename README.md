@@ -1,6 +1,6 @@
 # Gemini Explorer
 
-## Mission Scenario
+## Mission
 Create a chat interface using Streamlit and Google Gemini to explore large language chat models and their applications. This project aims to be an educational and practical introduction to integrating large language models with intuitive interfaces.
 
 ## Requirments:
