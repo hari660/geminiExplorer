@@ -20,7 +20,7 @@ Create a chat interface using Streamlit and Google Gemini to explore large langu
 
 ## Task 2: Google Cloud Initialization
 
-- Install the Google SDK using this [Link](https://cloud.google.com/sdk/docs/install).
+- Install the Google SDK using this [link](https://cloud.google.com/sdk/docs/install).
 - Run the following command to initialize the SDK:
   ```
   gcloud init
@@ -51,7 +51,7 @@ Create a chat interface using Streamlit and Google Gemini to explore large langu
 ## Task 6: Preparing Submission
 
  - A GitHub repository for the project containing all the project files.
- - Loom Video to show the approach. [Loom Link]()
+ - Loom Video to show the approach. [Loom Link](https://www.loom.com/share/27cbe9a2df964cc6be0be9d745df0d03?sid=69ccce98-14cf-43a9-b03e-cbf601615b38)
 
 ## Acknowledgements
 Special thanks to the [Radical AI](https://lab.radicalai.app/) team for allowing me to work on this AI Mission.
